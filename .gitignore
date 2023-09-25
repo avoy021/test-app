@@ -1,3 +1,5 @@
 node_modules
 *.env
 test-app.pem
+script.sh
+command.txt
